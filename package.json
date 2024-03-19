@@ -1,0 +1,40 @@
+{
+  "name": "makewaclient-baileys",
+  "version": "1.0.0",
+  "description": "connection code baileys",
+  "main": "client.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexito-Hub/makewaclient-baileys.git"
+  },
+  "keywords": [
+    "baileys",
+    "whiskeysockets",
+    "whatsapp",
+    "base",
+    "api",
+    "whatsapp-api",
+    "whatsapp-baileys",
+    "nodejs",
+    "npm",
+    "javascript"
+  ],
+  "author": "iam._zioo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexito-Hub/makewaclient-baileys/issues"
+  },
+  "homepage": "https://github.com/Alexito-Hub/makewaclient-baileys#readme",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "colorize-console": "^1.0.4",
+    "events": "^3.3.0",
+    "node-cache": "^5.1.2",
+    "pino": "^8.19.0",
+    "readline": "^1.3.0"
+  }
+}
